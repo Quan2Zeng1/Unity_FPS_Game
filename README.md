@@ -1,0 +1,2 @@
+# Unity_FPS_Game
+根据所学到的Unity3d开发知识，所做的一个简单的FPS游戏demo，打开VRfps.exe开始游玩
